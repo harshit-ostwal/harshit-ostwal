@@ -5,15 +5,12 @@
   <a href="https://github.com/harshit-ostwal">
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/harshitostwal">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://x.com/harshit-ostwal">
     <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" />
   </a>
-  &nbsp;
   <a href="mailto:harshitostwal1234@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
   </a>
@@ -76,7 +73,6 @@
 
 <br>
 <br>
-
 
 <div>
 <h1>Code • Build • Deploy</h1>
