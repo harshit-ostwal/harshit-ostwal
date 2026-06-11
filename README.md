@@ -16,7 +16,6 @@ Build. Learn. Iterate. Repeat.
 
 <br>
 
-
  <a href="https://github.com/harshit-ostwal">
     <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
   </a>
@@ -37,6 +36,7 @@ Build. Learn. Iterate. Repeat.
 <br>
 
 # Featured Projects
+
 <a href="https://github.com/harshit-ostwal/nextjs-starter">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=nextjs-starter&show_owner=true" />
 </a>
@@ -52,7 +52,6 @@ Build. Learn. Iterate. Repeat.
 
 <br>
 <br>
-
 
 # Work Experiences
 
@@ -85,8 +84,8 @@ Logitech:
 <br>
 <br>
 
-
 # Contributions & Activity
+
 <img
     width="100%"
     src="./profile/streak.svg"
@@ -94,35 +93,27 @@ Logitech:
   />
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-  />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-  />
-</picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&include_all_commits=true&theme=dark&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&include_all_commits=true&cache_seconds=1800"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&cache_seconds=1800"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&cache_seconds=1800" />
+  </picture>
 
 <br>
 <br>
