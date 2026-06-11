@@ -26,13 +26,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           options: >
             user=Harshit-ostwal
-            &theme=dark
+            &theme=default
             &hide_border=true
             &border_radius=0
             &date_format=M%20j%5B%2C%20Y%5D
             &card_width=700
             &card_height=300
-            &background=100,000000,EBB082
 
       - name: Commit and Push
         run: |
