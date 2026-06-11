@@ -157,24 +157,3 @@ Logitech:
 
 <br>
 <br>
-
-# Social Links
-
-
- <a href="https://github.com/harshit-ostwal">
-    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
-  </a>
-&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshitostwal">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
-  </a>
-&nbsp;&nbsp;
-  <a href="https://x.com/harshit-ostwal">
-    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X" />
-  </a>
-&nbsp;&nbsp;
-  <a href="mailto:harshitostwal1234@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
-  </a>
-
-<br>
