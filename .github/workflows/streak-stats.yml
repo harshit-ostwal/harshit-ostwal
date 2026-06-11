@@ -32,6 +32,7 @@ jobs:
             &date_format=M%20j%5B%2C%20Y%5D
             &card_width=700
             &card_height=300
+            &background=000000
 
       - name: Commit and Push
         run: |
