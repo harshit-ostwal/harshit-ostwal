@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           options: >
             user=Harshit-ostwal
-            &theme=default
+            &theme=dark
             &hide_border=true
             &border_radius=0
             &date_format=M%20j%5B%2C%20Y%5D
