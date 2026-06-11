@@ -1,22 +1,29 @@
 <br>
 <br>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/harshit-ostwal">
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>
+&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harshitostwal">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
+&nbsp;&nbsp;
   <a href="https://x.com/harshit-ostwal">
     <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" />
   </a>
+&nbsp;&nbsp;
   <a href="mailto:harshitostwal1234@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
   </a>
-</p> -->
+</p>
 
-<div>
+<br>
+<br>
+
+# Featured Projects
+
 <a href="https://github.com/harshit-ostwal/nextjs-starter">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=nextjs-starter&show_owner=true" />
 </a>
@@ -29,13 +36,48 @@
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
 </a>
-</div>
 
 <br>
+<br>
 
----
+# Code • Build • Deploy
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,py,cs,php,kotlin,swift" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,redux,vite,bootstrap,materialui" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,graphql,fastapi" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" />
+
+### Cloud & Hosting
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,cloudflare,vercel,netlify" />
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,bash,linux" />
+
+### Messaging & Event Streaming
+
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,jest" />
 
 <br>
+<br>
+
+# Contributions & Activity
 
 <img
     width="100%"
@@ -70,38 +112,3 @@
 
 <br>
 <br>
-
-<div>
-<h1>Code • Build • Deploy</h1>
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,py,cs,php,kotlin,swift" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,redux,vite,bootstrap,materialui" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,graphql,fastapi" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" />
-
-### Cloud & Hosting
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,cloudflare,vercel,netlify" />
-
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,bash,linux" />
-
-### Messaging & Event Streaming
-
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,jest" />
