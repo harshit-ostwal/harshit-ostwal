@@ -17,17 +17,17 @@
 </p> -->
 
 <div>
+<a href="https://github.com/harshit-ostwal/nextjs-starter">
+  <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=nextjs-starter&show_owner=true" />
+</a>
+<a href="https://github.com/harshit-ostwal/backend-starter-kit">
+  <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=backend-starter-kit&show_owner=true" />
+</a>
 <a href="https://github.com/harshit-ostwal/notes-backend">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
 </a>
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
-</a>
-<a href="https://github.com/harshit-ostwal/notes-backend">
-  <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend" />
-</a>
-<a href="https://github.com/harshit-ostwal/devhub-frontend">
-  <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend" />
 </a>
 </div>
 
@@ -53,7 +53,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark" />
   </picture>
   <picture>
     <source
