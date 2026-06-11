@@ -1,29 +1,42 @@
 <br>
+
+<h1>Hi 👋, I'm Harshit Jain</h1>
+
+### Building Scalable Products, Developer Tools & Backend Systems
+
+I turn ideas into production ready software.
+
+From full stack applications and developer tooling to backend infrastructure and automation, I enjoy building systems that are fast, scalable, and maintainable.
+
+My interests span product engineering, system design, cloud infrastructure, and open source. I care deeply about clean architecture, developer experience, and shipping meaningful products with strong foundations.
+
+Currently exploring new ideas, building in public, contributing to open source, and continuously learning through experimentation.
+
+Build. Learn. Iterate. Repeat.
+
 <br>
 
-<p align="center">
-  <a href="https://github.com/harshit-ostwal">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+
+ <a href="https://github.com/harshit-ostwal">
+    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
   </a>
 &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harshitostwal">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
   </a>
 &nbsp;&nbsp;
   <a href="https://x.com/harshit-ostwal">
-    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X" />
   </a>
 &nbsp;&nbsp;
   <a href="mailto:harshitostwal1234@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
   </a>
-</p>
 
 <br>
 <br>
 
 # Featured Projects
-
 <a href="https://github.com/harshit-ostwal/nextjs-starter">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=nextjs-starter&show_owner=true" />
 </a>
@@ -36,6 +49,74 @@
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
 </a>
+
+<br>
+<br>
+
+
+# Work Experiences
+
+```yaml
+HackWithIndia:
+  company: HackWithIndia
+  journey:
+    - role: Full Stack Engineer
+      period: Mar 2024 → Jun 2024
+
+    - role: Technical Lead
+      period: Jun 2024 → Oct 2024
+
+    - role: Chief Technology Officer
+      period: Oct 2024 → Present
+
+Nayi Disha:
+  role: Founder
+  period: Aug 2025 → Present
+
+Build In Bharat:
+  role: Freelance Developer
+  period: Dec 2024 → Nov 2025
+
+Logitech:
+  role: Community Manager
+  period: Dec 2024 → Apr 2025
+```
+
+<br>
+<br>
+
+
+# Contributions & Activity
+<img
+    width="100%"
+    src="./profile/streak.svg"
+    alt="GitHub Streak"
+  />
+
+  <div>
+<picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" />
+  </picture>
+</div>
 
 <br>
 <br>
@@ -77,38 +158,21 @@
 <br>
 <br>
 
-# Contributions & Activity
+# Social Links
+ <a href="https://github.com/harshit-ostwal">
+    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
+  </a>
+&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harshitostwal">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
+  </a>
+&nbsp;&nbsp;
+  <a href="https://x.com/harshit-ostwal">
+    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X" />
+  </a>
+&nbsp;&nbsp;
+  <a href="mailto:harshitostwal1234@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
+  </a>
 
-<img
-    width="100%"
-    src="./profile/streak.svg"
-    alt="GitHub Streak"
-  />
-
-  <div>
-<picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" />
-  </picture>
-</div>
-
-<br>
 <br>
