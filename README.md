@@ -16,22 +16,18 @@
   </a>
 </p> -->
 
-<p align="center">
 <a href="https://github.com/harshit-ostwal/notes-backend">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
 </a>
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
 </a>
-</p>
-<p align="center">
 <ahref="https://github.com/harshit-ostwal/notes-backend">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend" />
 </a>
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
   <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend" />
 </a>
-</p>
 
 <br>
 
@@ -39,15 +35,12 @@
 
 <br>
 
-<p align="center">
-  <img
+<img
     width="100%"
     src="./profile/streak.svg"
     alt="GitHub Streak"
   />
-</p>
 
-<p align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
@@ -70,7 +63,6 @@
     />
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" />
   </picture>
-</p>
 
 <br>
 <br>
