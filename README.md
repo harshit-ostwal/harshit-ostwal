@@ -38,16 +38,16 @@ Build. Learn. Iterate. Repeat.
 
 # Featured Projects
 <a href="https://github.com/harshit-ostwal/nextjs-starter">
-  <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=nextjs-starter&show_owner=true" />
+  <img alt="harshit-ostwal" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=nextjs-starter&show_owner=true" />
 </a>
 <a href="https://github.com/harshit-ostwal/backend-starter-kit">
-  <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=backend-starter-kit&show_owner=true" />
+  <img alt="harshit-ostwal" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=backend-starter-kit&show_owner=true" />
 </a>
 <a href="https://github.com/harshit-ostwal/notes-backend">
-  <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
+  <img alt="harshit-ostwal" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
 </a>
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
-  <img alt="harshit-ostwal" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
+  <img alt="harshit-ostwal" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
 </a>
 
 <br>
@@ -94,16 +94,16 @@ Logitech:
   />
 
   <div>
-<picture>
+<picture >
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&show_icons=true&hide=prs&include_all_commits=true&count_private=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </picture>
   <picture>
     <source
@@ -114,7 +114,7 @@ Logitech:
       srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" />
   </picture>
 </div>
 
@@ -159,6 +159,8 @@ Logitech:
 <br>
 
 # Social Links
+
+
  <a href="https://github.com/harshit-ostwal">
     <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
   </a>
