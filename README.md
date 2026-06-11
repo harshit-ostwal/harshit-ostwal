@@ -18,16 +18,16 @@
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap: 10px 20px;">
 <a  href="https://github.com/harshit-ostwal/notes-backend">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
 </a>
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
 </a>
 <a href="https://github.com/harshit-ostwal/notes-backend">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend" />
 </a>
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend" />
 </a>
 </div>
 
