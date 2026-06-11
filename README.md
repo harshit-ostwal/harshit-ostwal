@@ -18,19 +18,19 @@
 
 
 <p align="center">
-<a style="margin:16px;" href="https://github.com/harshit-ostwal/notes-backend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
+<a style="margin-right:16px;" href="https://github.com/harshit-ostwal/notes-backend">
+  <img alt="harshit-ostwal" width="48.9%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
 </a>
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
+  <img alt="harshit-ostwal" width="48.9%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
 </a>
 </p>
 <p align="center">
-<a style="margin:16px;"href="https://github.com/harshit-ostwal/notes-backend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend" />
+<a style="margin-right:16px;"href="https://github.com/harshit-ostwal/notes-backend">
+  <img alt="harshit-ostwal" width="48.9%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend" />
 </a>
 <a href="https://github.com/harshit-ostwal/devhub-frontend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend" />
+  <img alt="harshit-ostwal" width="48.9%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend" />
 </a>
 </p>
 
@@ -49,30 +49,30 @@
 </p>
 
 
-<div style="display:grid; grid-template-columns:1fr 1fr; gap: 10px 20px;">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" />
-</picture>
-</div>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="48.9%" style="margin-right:16px;" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="48.9%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" />
+  </picture>
+</p>
 
 <br>
 <br>
