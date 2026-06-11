@@ -13,7 +13,6 @@ Currently exploring new ideas, building in public, contributing to open source, 
 Build. Learn. Iterate. Repeat.
 
 <br>
-
  <a href="https://github.com/harshit-ostwal">
     <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
   </a>
@@ -22,7 +21,7 @@ Build. Learn. Iterate. Repeat.
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
   </a>
 &nbsp;&nbsp;
-  <a href="https://x.com/harshit-ostwal">
+  <a href="https://x.com/harshit_ostwal">
     <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X" />
   </a>
 &nbsp;&nbsp;
