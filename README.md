@@ -1,7 +1,7 @@
 <br>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/harshit-ostwal">
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>
@@ -14,7 +14,22 @@
   <a href="mailto:harshitostwal1234@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
   </a>
-</p>
+</p> -->
+
+<div style="display:grid; grid-template-columns:1fr 1fr; gap: 10px 20px;">
+<a  href="https://github.com/harshit-ostwal/notes-backend">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend&show_owner=true" />
+</a>
+<a href="https://github.com/harshit-ostwal/devhub-frontend">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend&show_owner=true" />
+</a>
+<a href="https://github.com/harshit-ostwal/notes-backend">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=notes-backend" />
+</a>
+<a href="https://github.com/harshit-ostwal/devhub-frontend">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-ostwal&repo=devhub-frontend" />
+</a>
+</div>
 
 <br>
 
@@ -30,16 +45,8 @@
   />
 </p>
 
-<br>
 
----
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
+<div style="display:grid; grid-template-columns:1fr 1fr; gap: 10px 20px;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true&theme=dark"
@@ -51,10 +58,6 @@
   />
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=prs&show_icons=true" />
 </picture>
-
-</td>
-<td width="50%">
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
@@ -66,10 +69,7 @@
   />
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=harshit-ostwal&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" />
 </picture>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 <br>
